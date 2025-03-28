@@ -249,12 +249,14 @@ free(gpuRef);
 // reset device
 cudaDeviceReset();
 return (0);
+
 }
 ```
 
 ## OUTPUT:
 ```
-https://private-user-images.githubusercontent.com/147473417/427978330-78e30e3f-736b-48db-b393-86a001890d4e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxNzYzODcsIm5iZiI6MTc0MzE3NjA4NywicGF0aCI6Ii8xNDc0NzM0MTcvNDI3OTc4MzMwLTc4ZTMwZTNmLTczNmItNDhkYi1iMzkzLTg2YTAwMTg5MGQ0ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyOFQxNTM0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMDEyZjFhZGQ5NjZjMGIwZTgwYjUwZDAxYzJjOTY0ODY1Mzk4N2FhYjJiNGRhZTE3YmFiM2YwNmJlMjJjNjBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.npyZp3GFDt7os-3INMY--omCzI7atmSvHvv2PxobrCU
+![image](https://github.com/user-attachments/assets/af7c60d8-6368-4a3a-954b-c650ea9f28bf)
+
 ```
 
 ## RESULT:
