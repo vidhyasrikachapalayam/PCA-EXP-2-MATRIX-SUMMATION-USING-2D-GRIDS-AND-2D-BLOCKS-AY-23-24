@@ -254,8 +254,8 @@ return (0);
 
 ## OUTPUT:
 ```
+![image](https://github.com/user-attachments/assets/8d228570-4e0a-4bca-9e2b-6a21724038ab)
 
-![image](https://github.com/user-attachments/assets/c820f391-7e1b-4b90-a3a8-11e8606814a6)
 ```
 
 ## RESULT:
