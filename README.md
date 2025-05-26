@@ -255,7 +255,7 @@ return (0);
 
 ## OUTPUT:
 ```
-![image](https://github.com/user-attachments/assets/af7c60d8-6368-4a3a-954b-c650ea9f28bf)
+![image](https://github.com/user-attachments/assets/b1f10645-4303-4028-ad48-ae19e88a0e9d)
 
 ```
 
